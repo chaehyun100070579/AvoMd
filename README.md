@@ -7,7 +7,6 @@ A minimal backend API that processes guideline documents through a two-step GPT 
 ```bash
 # Clone and setup
 git clone <repo-url>
-cd guideline-ingest-api
 cp .env.example .env
 # Edit .env with your OpenAI API key
 
